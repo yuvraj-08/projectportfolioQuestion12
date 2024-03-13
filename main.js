@@ -1,3 +1,4 @@
+// CLOSING NAVBAR 
 let nav = document.getElementById("navbarNav");
 let nlink = document.getElementsByClassName('nav-link');
 
